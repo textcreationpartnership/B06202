@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The troubles of these times, or, The calamities of our English nation, makes many a heart sore sad, and out of fashion, which is a trouble and grief to all, there's many a man in danger for to fall, but it is our sins that causes this to be, that brings this trouble, and this misery, lets pray to the Lord, our nation to defend, and all English people strive their lives to mend, and not to take so much the Lords name in vain, we must look for judgments for the very same. To the tune of, A lesson for all true Christians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06202</idno>
+            <idno type="STC">Wing T2310</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[107]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[456]</idno>
+            <idno type="EEBO-CITATION">99887313</idno>
+            <idno type="PROQUEST">ocm99887313</idno>
+            <idno type="VID">183569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183569)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[107]; A5:2[360])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The troubles of these times, or, The calamities of our English nation, makes many a heart sore sad, and out of fashion, which is a trouble and grief to all, there's many a man in danger for to fall, but it is our sins that causes this to be, that brings this trouble, and this misery, lets pray to the Lord, our nation to defend, and all English people strive their lives to mend, and not to take so much the Lords name in vain, we must look for judgments for the very same. To the tune of, A lesson for all true Christians.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball in Pye-Corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Poor England now is full of care and grief ..."</note>
+                  <note>Item at A5:2[360] trimmed.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183569:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Troubles of theſe Times OR,</head>
+            <argument>
+               <lg>
+                  <l>The Calamities of our Engliſh Nation,</l>
+                  <l>Makes many a heart ſore fad, and out of Faſhion,</l>
+                  <l>Which is a trouble and grief to all,</l>
+                  <l>There's many a man in danger for to fall,</l>
+                  <l>But it is our Sins that cauſes this to be,</l>
+               </lg>
+               <lg>
+                  <l>That brings this Trouble, and this Miſery,</l>
+                  <l>Lets pray to the Lord, our Nation to defend,</l>
+                  <l>And all Engliſh people Strive their lives to mend,</l>
+                  <l>And not to take ſo much the Lords Name in Vain,</l>
+                  <l>We muſt look for Judgments for the very ſame.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, A Leſſon for all true Chriſtians.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>POor <hi>England</hi> now is full of Care and Grief,</l>
+               <l>To ſee the Wars amongſt us for to be ſo brief;</l>
+               <l>It makes all People they know not what to do,</l>
+               <l>They are ſo full of care the truth is ſo.</l>
+            </lg>
+            <lg>
+               <l>Trading is down, there's little to be got,</l>
+               <l>The poorer ſort they are very hard put too't,</l>
+               <l>To maintain their Charge and children in their need,</l>
+               <l>To ſee them want will make their hearts to bleed.</l>
+            </lg>
+            <lg>
+               <l>There's many plaints, there's little for to do,</l>
+               <l>They walk up and down, ſo heavily they go,</l>
+               <l>They know not what to think, or how to tell,</l>
+               <l>But it is the Lord that can make all be well.</l>
+            </lg>
+            <lg>
+               <l>Let us pray to the Lord then with a tender heart,</l>
+               <l>There is nothing better that can take our part;</l>
+               <l>'Tis not the Arm of fleſh can do us wrong,</l>
+               <l>If the Lord be with us, who can hurt us than.</l>
+            </lg>
+            <lg>
+               <l>But the pride o'th Nation has been very ſore,</l>
+               <l>Now we muſt ſuffer for it to be ſure;</l>
+               <l>The poorer ſort of People abides the ſmart,</l>
+               <l>But a true Believer in God is the beſt part.</l>
+            </lg>
+            <lg>
+               <l>It's not the ſtrength of Armed Men beſure,</l>
+               <l>That can relieve us, or make us ſecure,</l>
+               <l>It's the Lord from Heaven that muſt be our friend,</l>
+               <l>To bring Peace and quietneſs in <hi>England</hi> agen.</l>
+            </lg>
+            <lg>
+               <l>And we our ſelves be in mighty care,</l>
+               <l>To live uprightly, and the Lord to fear;</l>
+               <l>The Sins o'th Nation to the Lord doth cry,</l>
+               <l>Makes all theſe Troubles on this Land to lye.</l>
+            </lg>
+            <lg>
+               <l>Therefore we had need to pray then Night and Day,</l>
+               <l>To defend us from the Sword then every way;</l>
+               <l>The War and Sword brings Famine at the length,</l>
+               <l>If it hold long in bloody force and ſtrength.</l>
+            </lg>
+            <lg>
+               <l>We know not what this may come to at laſt,</l>
+               <l>Or how this trouble will be over-paſt,</l>
+               <l>But the Lord above, He's in Heaven ſtill,</l>
+               <l>Let all be done unto His Bleſſed Will.</l>
+            </lg>
+            <lg>
+               <l>For if theſe troubles do continue Long,</l>
+               <l>There's many Thouſand will be clear undone;</l>
+               <l>But the Lord he does know beſt then what to do,</l>
+               <l>If we can be careful our ſins for to forgo.</l>
+            </lg>
+            <lg>
+               <l>We deſire that love amongſt us may increaſe,</l>
+               <l>And grant our Nation a true happy Peace,</l>
+               <l>What a comfort that would be, if the Lord be pleas'd,</l>
+               <l>That of this War our Nation could be eas'd.</l>
+            </lg>
+            <lg>
+               <l>If it hold long, we ſhall be all undone,</l>
+               <l>We need to pray then every Mothers Son,</l>
+               <l>That the Lord of Heaven may of us take a care,</l>
+               <l>To forgive us our Sins, and put us out of fear.</l>
+            </lg>
+            <lg>
+               <l>When great Afflictions comes upon our Land,</l>
+               <l>That the Lord is pleas'd amongſt us for to ſend,</l>
+               <l>VVe may thank our ſelves; our VVickedneſs is great,</l>
+               <l>Our Sins lies heavy, and I'm ſorry fort.</l>
+            </lg>
+            <lg>
+               <l>Now to conclude, we have no more to ſay,</l>
+               <l>That we may ſerve the Lord, and Him Obey,</l>
+               <l>And bleſs our Engliſh Nation evermore,</l>
+               <l>And take off theſe troubles, which grieves our Nation ſore,</l>
+               <l>That we may live in happineſs agen,</l>
+               <l>And let all good Chriſtian people ſay, Amen.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the <hi>Golden-Ball in Pye-C<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
